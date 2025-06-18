@@ -10,8 +10,8 @@
     display: flex;
     overflow-x: auto;
     flex-wrap: nowrap;
-    scrollbar-width: 0;
     margin-inline: auto;
+    scrollbar-width: none;
     gap: var(--slider-gap);
     margin-block: 1rem 3rem;
     max-width: var(--slider-width);
