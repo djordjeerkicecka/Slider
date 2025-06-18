@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*
+html {
+    direction: rtl;
+}
+*/
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
